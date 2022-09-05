@@ -16,4 +16,5 @@ void main()
 		st += 2;
 		printf("\n");
 	}
+	getch();
 }
